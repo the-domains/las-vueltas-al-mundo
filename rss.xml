@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LVAM]]></title>
+        <description><![CDATA[LVAM]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jul 2016 01:01:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nuevos comienzos]]></title>
+            <description><![CDATA[<article><h1>Nuevos comienzos</h1><p>Después de la tormenta viene la calma</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8407929-1b1d-48f1-a68d-e78acbcfc5e1.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8407929-1b1d-48f1-a68d-e78acbcfc5e1.jpg</link>
+            <guid isPermaLink="false">c9888a66-2c58-4a68-8b13-794e025aa568</guid>
+            <pubDate>Wed, 06 Jul 2016 01:00:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
