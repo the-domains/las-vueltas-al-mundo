@@ -8,7 +8,7 @@ color:
     - '#f3e85e'
   brandStrength: 0.980855
   lightness: 0.951576
-  rhythmicContrast: 0
+  rhythmicContrast: 1
   saturation: 0
 cta: {}
 layout_spectrum: 0.23536
@@ -16,4 +16,4 @@ name: Las Vueltas al Mundo
 opengraph: {}
 purpose: []
 title: LVAM
-typography_spectrum: 0.69906
+typography_spectrum: 0
