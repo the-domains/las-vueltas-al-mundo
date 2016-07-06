@@ -2,6 +2,7 @@ name: Las Vueltas al Mundo
 favicon: null
 layout_spectrum: 0.11573025537654757
 typography_spectrum: 0.5834303733427078
+title: LVAM
 cta:
   domain: null
   bucket: null
