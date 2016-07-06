@@ -1,4 +1,20 @@
-analytics: {}
+name: Las Vueltas al Mundo
+favicon: null
+layout_spectrum: 0.23536
+typography_spectrum: 0
+title: LVAM
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#fefefe'
@@ -8,12 +24,6 @@ color:
     - '#f3e85e'
   brandStrength: 0.980855
   lightness: 0.951576
-  rhythmicContrast: 1
   saturation: 0
-cta: {}
-layout_spectrum: 0.23536
-name: Las Vueltas al Mundo
-opengraph: {}
+  rhythmicContrast: 1
 purpose: []
-title: LVAM
-typography_spectrum: 0
