@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LVAM]]></title>
         <description><![CDATA[LVAM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.lasvueltasalmundo.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 03:17:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jul 2016 03:17:25 GMT</lastBuildDate>
+        <atom:link href="http://www.lasvueltasalmundo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0823c377-a844-4594-acd1-38e36b219de4.jpg">]]></description>
+            <link>http://www.lasvueltasalmundo.com/e64af6c2-1005-4b06-b167-90a8697453bd/index.html</link>
+            <guid isPermaLink="false">e64af6c2-1005-4b06-b167-90a8697453bd</guid>
+            <pubDate>Wed, 06 Jul 2016 03:16:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58c56ed8-dcd9-40eb-a626-0de74be9481a.jpg">]]></description>
-            <link>undefinedoceana-cafe/index.html</link>
+            <link>http://www.lasvueltasalmundo.com/oceana-cafe/index.html</link>
             <guid isPermaLink="false">cf164848-45ac-45c0-9f03-aac3efc0907e</guid>
             <pubDate>Wed, 06 Jul 2016 03:16:55 GMT</pubDate>
         </item>
