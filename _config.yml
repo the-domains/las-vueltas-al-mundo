@@ -1,6 +1,6 @@
 name: Las Vueltas al Mundo
 favicon: null
-layout_spectrum: 0.23536
+layout_spectrum: 0.48288
 typography_spectrum: 0
 title: LVAM
 cta:
@@ -22,8 +22,8 @@ color:
     - '#956a48'
     - '#f89d5a'
     - '#f3e85e'
-  brandStrength: 0.980855
-  lightness: 0.951576
-  saturation: 0
-  rhythmicContrast: 1
+  brandStrength: 0.3125
+  lightness: 0.125
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
