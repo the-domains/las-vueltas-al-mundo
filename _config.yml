@@ -7,11 +7,11 @@ color:
     - '#f89d5a'
     - '#f3e85e'
   brandStrength: 0.944819
-  lightness: 0.945945
-  rhythmicContrast: 1
-  saturation: 1
+  lightness: 0.666666
+  rhythmicContrast: 0.252252
+  saturation: 0.628378
 cta: {}
-layout_spectrum: 0
+layout_spectrum: 0.108108
 name: Las Vueltas al Mundo
 opengraph: {}
 purpose: []
