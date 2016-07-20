@@ -1,14 +1,14 @@
 analytics: {}
 color:
   brandColors:
-    - '#fefefe'
-    - '#2d2427'
-    - '#956a48'
-    - '#f89d5a'
-    - '#f3e85e'
-  brandStrength: 0.601351
+    - '#FBE24A'
+    - '#0F0D01'
+    - '#FEF3BB'
+    - '#E1C847'
+    - '#FDEE87'
+  brandStrength: 0
   lightness: 0.666666
-  rhythmicContrast: 0.252251
+  rhythmicContrast: 0.745495
   saturation: 0.628378
 cta: {}
 layout_spectrum: 0.108108
