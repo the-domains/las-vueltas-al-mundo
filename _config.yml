@@ -1,4 +1,13 @@
+name: Las Vueltas al Mundo
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6182f4af-3010-4439-9363-2a6f0267ffe1.jpg
+layout_spectrum: 0.245495
+typography_spectrum: 1
+cta: {}
 analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#FBE24A'
@@ -8,12 +17,13 @@ color:
     - '#FDEE87'
   brandStrength: 0
   lightness: 0.666666
-  rhythmicContrast: 0.745495
   saturation: 0.628378
-cta: {}
-layout_spectrum: 0.245495
-name: Las Vueltas al Mundo
-opengraph: {}
+  rhythmicContrast: 0.745495
 purpose: []
 title: LVAM
-typography_spectrum: 1
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
